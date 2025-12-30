@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
         // Listen for navigation changes to show/hide bottom navigation
         navController.addOnDestinationChangedListener { _, destination, _ ->
             when (destination.id) {
-                R.id.nav_onboarding -> {
+                R.id.nav_welcome, R.id.nav_onboarding -> {
                     bottomNav.visibility = android.view.View.GONE
                 }
                 else -> {

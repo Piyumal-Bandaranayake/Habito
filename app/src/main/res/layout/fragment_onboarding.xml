@@ -232,6 +232,33 @@
 
             </LinearLayout>
 
+            <!-- Navigation Dot Indicators -->
+            <LinearLayout
+                android:id="@+id/layoutDots"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/layoutFeatures">
+
+                <View
+                    android:layout_width="8dp"
+                    android:layout_height="8dp"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/button_outline_background"
+                    android:backgroundTint="@color/divider" />
+
+                <View
+                    android:layout_width="24dp"
+                    android:layout_height="8dp"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/button_outline_background"
+                    android:backgroundTint="@color/primary" />
+
+            </LinearLayout>
+
             <!-- Action Buttons -->
             <LinearLayout
                 android:id="@+id/layoutButtons"
@@ -242,7 +269,7 @@
                 android:layout_marginBottom="32dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/layoutFeatures">
+                app:layout_constraintTop_toBottomOf="@+id/layoutDots">
 
                 <!-- Get Started Button -->
                 <com.google.android.material.button.MaterialButton
