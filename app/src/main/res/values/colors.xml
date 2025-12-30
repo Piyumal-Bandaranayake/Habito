@@ -3,49 +3,52 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     
-    <!-- App Theme Colors - Light Blue Wellness Palette -->
-    <color name="primary">#FF2196F3</color>
-    <color name="primary_dark">#FF1976D2</color>
-    <color name="primary_light">#FFBBDEFB</color>
-    <color name="accent">#FF03DAC6</color>
-    <color name="accent_light">#FF80F0E6</color>
+    <!-- App Theme Colors - Premium Nordic Wellness Palette -->
+    <color name="primary">#FF2D5D7C</color> <!-- Deep Nordic Blue -->
+    <color name="primary_dark">#FF1F4056</color>
+    <color name="primary_light">#FFD6E4ED</color>
+    <color name="accent">#FF7FB692</color> <!-- Sage Green -->
+    <color name="accent_light">#FFE8F3EB</color>
     
     <!-- Background Colors -->
-    <color name="background_light">#FFF8FAFF</color>
+    <color name="background_light">#FFF9FBFC</color>
     <color name="background_dark">#FF121212</color>
     <color name="surface_light">#FFFFFFFF</color>
     <color name="surface_dark">#FF1E1E1E</color>
     
     <!-- Text Colors -->
-    <color name="text_primary_light">#FF1A237E</color>
+    <color name="text_primary_light">#FF1A2A33</color>
     <color name="text_primary_dark">#FFFFFFFF</color>
-    <color name="text_secondary_light">#FF546E7A</color>
+    <color name="text_secondary_light">#FF607D8B</color>
     <color name="text_secondary_dark">#FF9CA3AF</color>
     
     <!-- Mood Chart Colors -->
-    <color name="mood_chart_color">#FF2196F3</color>
-    <color name="mood_chart_fill">#202196F3</color>
-    <color name="mood_sad">#FFE57373</color>
-    <color name="mood_neutral">#FFFFB74D</color>
-    <color name="mood_happy">#FF81C784</color>
+    <color name="mood_chart_color">#FF2D5D7C</color>
+    <color name="mood_chart_fill">#202D5D7C</color>
+    <color name="mood_sad">#FFE5A1A1</color>
+    <color name="mood_neutral">#FFDBC19D</color>
+    <color name="mood_happy">#FFB6D7A8</color>
     
     <!-- Status Colors -->
-    <color name="success">#FF4CAF50</color>
-    <color name="success_light">#FFC8E6C9</color>
-    <color name="warning">#FFFF9800</color>
-    <color name="warning_light">#FFFFE0B2</color>
-    <color name="error">#FFF44336</color>
-    <color name="error_light">#FFFFCDD2</color>
+    <color name="success">#FF7FB692</color>
+    <color name="success_light">#FFE8F3EB</color>
+    <color name="warning">#FFDBC19D</color>
+    <color name="warning_light">#FFF9F3EA</color>
+    <color name="error">#FFE5A1A1</color>
+    <color name="error_light">#FFF9EAEA</color>
     
     <!-- Habit Colors -->
-    <color name="habit_water">#FF2196F3</color>
-    <color name="habit_exercise">#FF3F51B5</color>
-    <color name="habit_meditation">#FF00BCD4</color>
-    <color name="habit_sleep">#FF673AB7</color>
-    <color name="habit_reading">#FF4CAF50</color>
+    <color name="habit_water">#FF5C9EAD</color>
+    <color name="habit_exercise">#FF4D7298</color>
+    <color name="habit_meditation">#FF7FB692</color>
+    <color name="habit_sleep">#FF6B7D7D</color>
+    <color name="habit_reading">#FF9D8189</color>
     
     <!-- Progress Colors -->
-    <color name="progress_completed">#FF2196F3</color>
-    <color name="progress_partial">#FFFF9800</color>
+    <color name="progress_completed">#FF2D5D7C</color>
+    <color name="progress_partial">#FFDBC19D</color>
     <color name="progress_none">#FFE3F2FD</color>
+
+    <!-- UI Elements -->
+    <color name="color_divider">#FFF0F2F5</color>
 </resources>
