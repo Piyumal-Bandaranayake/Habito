@@ -2,7 +2,7 @@
 
 Habito is a modern, intuitive Android application designed to help you build lasting habits and monitor your emotional well-being. By combining habit tracking with mood logs, Habito provides a holistic view of your daily life and personal growth.
 
-![Habito App](https://via.placeholder.com/800x400.png?text=Habito+App+Preview)
+
 
 ## ✨ Features
 
