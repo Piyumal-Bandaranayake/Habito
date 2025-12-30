@@ -42,11 +42,7 @@ Habito is a modern, intuitive Android application designed to help you build las
 4. **Run**:
    Select an emulator or physical device and click the **Run** button.
 
-## 📱 Screenshots
 
-|                       Onboarding                       |                    Habits List                     |                   Mood Tracker                   |                       Progress                       |
-| :----------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------: |
-| ![Onboarding](https://via.placeholder.com/200x400.png) | ![Habits](https://via.placeholder.com/200x400.png) | ![Mood](https://via.placeholder.com/200x400.png) | ![Progress](https://via.placeholder.com/200x400.png) |
 
 ## 🤝 Contributing
 
